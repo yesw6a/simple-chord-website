@@ -31,7 +31,7 @@ function App() {
       <div
         className={classNames(
           styles['header-bg'],
-          'flex flex-col items-center relative min-h-[40vh] text-white pt-8 pb-24 mb-10',
+          'flex flex-col items-center relative min-h-[55vh] text-white pt-8 pb-24 mb-10',
         )}
       >
         <img src={headerBgCover} className="absolute left-0 bottom-0 w-full bg-cover -mb-[3px]" />
